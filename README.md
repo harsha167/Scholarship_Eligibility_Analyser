@@ -10,4 +10,5 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 Check out the Project : https://huggingface.co/spaces/harsha167/Scholarship_eligibility_analyser
